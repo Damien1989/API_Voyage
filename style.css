@@ -1,0 +1,14 @@
+#form {
+    display: flex;
+    align-items: center;
+}
+
+.field {
+    margin: 1rem;
+}
+
+.field select {
+    height: 6rem;
+    width: 20rem;
+    font-family: arial;
+}
